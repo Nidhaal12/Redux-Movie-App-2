@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: skyblue;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color : rgb(78, 4, 78);
+  font-family:"Comic Sans MS", cursive, sans-serif  ;
+  text-shadow: 1px 1px black;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.descr {
+  margin: 2em !important;
+  background-color: aqua;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+#h1 {
+  color : rgb(78, 4, 78);
+  margin: 2em !important;
+  font-size: 40px ;
+  text-align: center;
+  font-family:"Comic Sans MS", cursive, sans-serif ;
+  text-shadow: 2px 3px rgb(78, 4, 78) ;
+  }
+
+  .plus {
+    margin-left: 30em;
+    margin-top: 4em;
+    background-image: url(https://cdn.pixabay.com/photo/2017/03/19/03/51/material-icon-2155448_960_720.png);
+    background-repeat: no-repeat;
+    background-size:  250px;
+    height: 120px;
+    width: 250px;
+    font-size: 5px;
+  }
+  
+
+  .home {
+  background-color: skyblue;
+   margin-left: 28em !important;
+  font-size: calc(10px + 2vmin);
+  color : rgb(78, 4, 78);
+  font-family:"Comic Sans MS", cursive, sans-serif  ;
+  }
+
